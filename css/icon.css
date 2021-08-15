@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2745972 */
+  src: url('//at.alicdn.com/t/font_2745972_37dnkpqgutx.woff2?t=1629021584894') format('woff2'),
+       url('//at.alicdn.com/t/font_2745972_37dnkpqgutx.woff?t=1629021584894') format('woff'),
+       url('//at.alicdn.com/t/font_2745972_37dnkpqgutx.ttf?t=1629021584894') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xianxingfangdajing:before {
+  content: "\e6c5";
+}
+
+.icon-xianxingkuaidixiang:before {
+  content: "\e6c7";
+  color:#00bf03
+}
+
+@font-face {
+  font-family: "iconfont"; /* Project id 2746064 */
+  src: url('//at.alicdn.com/t/font_2746064_n2ew505234g.woff2?t=1629027324718') format('woff2'),
+       url('//at.alicdn.com/t/font_2746064_n2ew505234g.woff?t=1629027324718') format('woff'),
+       url('//at.alicdn.com/t/font_2746064_n2ew505234g.ttf?t=1629027324718') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-guanyuwo:before {
+  content: "\e600";
+}
+
+.icon-jifen:before {
+  content: "\e601";
+}
+
+.icon-home:before {
+  content: "\e602";
+}
