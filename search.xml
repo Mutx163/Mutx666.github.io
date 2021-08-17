@@ -13,7 +13,7 @@
       
       <categories>
           
-          <category> 教程 </category>
+          <category> 搞机 </category>
           
       </categories>
       
@@ -38,7 +38,7 @@
       
       <categories>
           
-          <category> 教程 </category>
+          <category> 搭建 </category>
           
       </categories>
       
@@ -46,6 +46,10 @@
         <tags>
             
             <tag> 工具 </tag>
+            
+            <tag> 宝塔 </tag>
+            
+            <tag> 青龙面板 </tag>
             
         </tags>
       
@@ -63,14 +67,14 @@
       
       <categories>
           
-          <category> 教程 </category>
+          <category> 搭建 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 工具 </tag>
+            <tag> 青龙面板 </tag>
             
         </tags>
       
@@ -88,7 +92,7 @@
       
       <categories>
           
-          <category> 教程 </category>
+          <category> 网盘 </category>
           
       </categories>
       
@@ -113,7 +117,7 @@
       
       <categories>
           
-          <category> 教程 </category>
+          <category> 搞机 </category>
           
       </categories>
       
@@ -121,6 +125,8 @@
         <tags>
             
             <tag> 刷机 </tag>
+            
+            <tag> 海美迪 </tag>
             
         </tags>
       
@@ -138,7 +144,7 @@
       
       <categories>
           
-          <category> 教程 </category>
+          <category> 搞机 </category>
           
       </categories>
       
@@ -146,6 +152,8 @@
         <tags>
             
             <tag> 刷机 </tag>
+            
+            <tag> 海美迪 </tag>
             
         </tags>
       
