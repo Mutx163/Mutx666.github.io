@@ -3437,26 +3437,22 @@ span.categoryBar-list-count::after {
   right: -100%;
 }
 li.categoryBar-list-item:nth-child(1) {
-  background: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover1.webp');
+  background: #99CCFF;
 }
 li.categoryBar-list-item:nth-child(2) {
-  background: #abcdef;
+  background: #FFFF66;
 }
 li.categoryBar-list-item:nth-child(3) {
-  background: rgba(45,67,89,0.7);
+  background: #666666;
 }
 li.categoryBar-list-item:nth-child(4) {
-  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
-  background: -moz-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
-  background: -o-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
-  background: -ms-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
-  background: linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
+  background: #336666;
 }
 li.categoryBar-list-item:nth-child(5) {
-  background: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover5.webp');
+  background: #FFFFFF;
 }
 li.categoryBar-list-item:nth-child(6) {
-  background: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover6.webp');
+  background: #999999;
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
   content: !important;
