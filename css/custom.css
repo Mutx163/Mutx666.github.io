@@ -1,6 +1,6 @@
 @font-face {
     font-family:'arzhu';
-    src:url('http://3404565214.test.upcdn.net/kodbox/hexo%E5%9B%BE%E7%89%87/douyuFont.otf?_upd=douyuFont.otf'); /* 修改成你的字体 */
+    src:url('https://qiqiqi.oss-cn-shanghai.aliyuncs.com/douyuFont.otf'); /* 修改成你的字体 */
     font-display:swap
 }
 h1#site-title {
