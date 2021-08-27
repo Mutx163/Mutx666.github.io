@@ -11,3 +11,4 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /lib/
 Sitemap: https://www.lytian.xyz/sitemap.xml
+Sitemap: https://www.lytian.xyz/baidusitemap.xml
