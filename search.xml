@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>随身WiFi玩法</title>
+      <link href="/2021/12/05/%E9%9A%8F%E8%BA%ABWiFi%E7%8E%A9%E6%B3%95/"/>
+      <url>/2021/12/05/%E9%9A%8F%E8%BA%ABWiFi%E7%8E%A9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h3 id="飞哥随时WiFi（旦斯）"><a href="#飞哥随时WiFi（旦斯）" class="headerlink" title="飞哥随时WiFi（旦斯）"></a>飞哥随时WiFi（旦斯）</h3><blockquote><p>开启卡槽密码：az952#<br>开启ADB：<a href="http://192.168.0.1/goform/goform_set_cmd_process?goformId=SET_DEVICE_MODE&amp;debug_enable=1">http://192.168.0.1/goform/goform_set_cmd_process?goformId=SET_DEVICE_MODE&amp;debug_enable=1</a><br>频段选择：<br><a href="http://192.168.0.1/index.html#band_selection">http://192.168.0.1/index.html#band_selection</a><br>家长控制：<br><a href="http://192.168.0.1/index.html#child_ctl">http://192.168.0.1/index.html#child_ctl</a><br>副SSID：<br><a href="http://192.168.0.1/index.html#wlan_guset">http://192.168.0.1/index.html#wlan_guset</a><br>VPN：<br><a href="http://192.168.0.1/index.html#vpn">http://192.168.0.1/index.html#vpn</a><br>TR069：<br><a href="http://192.168.0.1/index.html#tr069">http://192.168.0.1/index.html#tr069</a><br>DDNS：<br><a href="http://192.168.0.1/index.html#dynamic_dns">http://192.168.0.1/index.html#dynamic_dns</a></p><p>浏览器F12控制台显示所有选项代码：<br>$(“*“).show();</p><p>ADB环境：<a href="http://shandianpan.com/f/9Naw">http://shandianpan.com/f/9Naw</a></p><p>下载解压</p><p>去设置里搜索环境去哪，把所解压的目录配置上去</p><p>打开cmd 输入 cd（进入） 你的解压文件所在的地方</p><p>输入adb shell 即可连接 看另外个药油贴子说busybox不要动</p></blockquote><h3 id="格行"><a href="#格行" class="headerlink" title="格行"></a>格行</h3><blockquote><p>浏览器输入192.168.43.1进入后台 账号密码都是admin</p><p>开启实体卡槽密码sltx888</p><p>记得数据连接开关也要打开</p><p>进去网页控制台：192.168.43.1/terminal.html</p><p>开启adb的方法：<br>控制台逐行执行下面命令：<br>stop adbd<br>setprop service.adb.tcp.port 5555<br>start adbd</p><p>以下内容不是在网页终端执行<br>连接设备<br>adb connect 192.168.43.1:5555</p><p>推送脚本<br>adb push 传进去的脚本路径 /data/</p><p>进入shell<br>adb shell </p><p>给脚本权限<br>chmod -R 777 /data/脚本文件夹名字</p><p>进去脚本文件夹<br>cd /data/脚本文件夹名字</p><p>执行脚本<br>./开始.sh</p></blockquote><h1 id="持续更新…"><a href="#持续更新…" class="headerlink" title="持续更新…"></a>持续更新…</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随身WiFi </tag>
+            
+            <tag> 免流 </tag>
+            
+            <tag> tiny </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>某东自动好评脚本</title>
       <link href="/2021/10/04/%E6%9F%90%E4%B8%9C%E8%87%AA%E5%8A%A8%E5%A5%BD%E8%AF%84%E8%84%9A%E6%9C%AC/"/>
       <url>/2021/10/04/%E6%9F%90%E4%B8%9C%E8%87%AA%E5%8A%A8%E5%A5%BD%E8%AF%84%E8%84%9A%E6%9C%AC/</url>
